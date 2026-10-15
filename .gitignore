@@ -1,0 +1,14 @@
+*.o
+*.a
+*.so
+main_static
+main_shared
+main_dynamic
+assert_test
+assert_orig
+assert_nd
+prof_main
+leak_test
+leak_fixed
+gmon.out
+hello
